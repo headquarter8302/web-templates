@@ -1,4 +1,4 @@
-# <span style="text-align: center;">Web Templates</span>
+# Web Templates
 ## A hobby project
 
 You heard it, now get off
